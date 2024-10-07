@@ -98,7 +98,6 @@
       height="40"
     />
   </a>
-
   <a
     style="text-decoration: none"
     href="https://nextjs.org/"
