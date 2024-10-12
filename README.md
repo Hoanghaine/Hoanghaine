@@ -29,13 +29,13 @@
     />
   </a>
   <a
-    style="text-decoration: none; margin-right: 10px"
+    style="text-decoration: none; margin-right: 10px;color:#fff;"
     href="https://expressjs.com"
     target="_blank"
     rel="noreferrer"
   >
     <img
-      style="text-decoration: none; margin-right: 10px"
+      style="text-decoration: none; margin-right: 10px;"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express"
       width="40"
@@ -43,13 +43,13 @@
     />
   </a>
   <a
-    style="text-decoration: none"
+    style="text-decoration: none;color:#fff;"
     href="https://www.figma.com/"
     target="_blank"
     rel="noreferrer"
   >
     <img
-      style="text-decoration: none; margin-right: 10px"
+      style="text-decoration: none; margin-right: 10px;"
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="figma"
       width="40"
@@ -57,7 +57,7 @@
     />
   </a>
   <a
-    style="text-decoration: none"
+    style="text-decoration: none;color:#fff;"
     href="https://firebase.google.com/"
     target="_blank"
     rel="noreferrer"
@@ -71,7 +71,7 @@
     />
   </a>
   <a
-    style="text-decoration: none"
+    style="text-decoration: none;color:#fff;"
     href="https://www.java.com"
     target="_blank"
     rel="noreferrer"
@@ -85,7 +85,7 @@
     />
   </a>
   <a
-    style="text-decoration: none"
+    style="text-decoration: none;color:#fff;"
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
     rel="noreferrer"
@@ -99,7 +99,7 @@
     />
   </a>
   <a
-    style="text-decoration: none"
+    style="text-decoration: none;color:#fff;"
     href="https://nextjs.org/"
     target="_blank"
     rel="noreferrer"
@@ -127,7 +127,7 @@
     />
   </a>
   <a
-    style="text-decoration: none"
+    style="text-decoration: none;color:#fff;"
     href="https://reactjs.org/"
     target="_blank"
     rel="noreferrer"
@@ -141,7 +141,7 @@
     />
   </a>
   <a
-    style="text-decoration: none"
+    style="text-decoration: none;color:#fff;"
     href="https://sass-lang.com"
     target="_blank"
     rel="noreferrer"
@@ -155,7 +155,7 @@
     />
   </a>
   <a
-    style="text-decoration: none"
+    style="text-decoration: none;color:#fff;"
     href="https://spring.io/"
     target="_blank"
     rel="noreferrer"
@@ -169,7 +169,7 @@
     />
   </a>
   <a
-    style="text-decoration: none"
+    style="text-decoration: none;color:#fff;"
     href="https://tailwindcss.com/"
     target="_blank"
     rel="noreferrer"
@@ -183,7 +183,7 @@
     />
   </a>
   <a
-    style="text-decoration: none"
+    style="text-decoration: none;color:#fff;"
     href="https://www.typescriptlang.org/"
     target="_blank"
     rel="noreferrer"
